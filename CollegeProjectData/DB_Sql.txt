@@ -1,0 +1,8 @@
+CREATE TABLE [dbo].[Students](
+	[Sid] [int] NULL,
+	[Sname] [nvarchar](300) NULL,
+	[Sdepartment] [nvarchar](300) NULL,
+	[Sage] [int] NULL,
+	[SjoiningDate] [datetime] NULL;
+
+//Query as per Sql Server
